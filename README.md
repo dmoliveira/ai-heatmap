@@ -14,6 +14,24 @@ AI Heatmap is a simple script that generates a heatmap based on the frequency of
 4. **Adjust Your Timezone**  
    - Update `local_tz` with your local timezone to correctly timestamp each conversation.  
 
+## ▶️ How to Run
+
+Run the script directly with:
+
+```sh
+python3 ./ai_heatmap.py --chatgpt_data_folder "./data/" --local_tz "Australia/Melbourne" --year "2024"```
+
+Alternatively, edit the parameters and execute:
+
+```sh
+./run_ai_heatmap```
+
+## 📊 Result
+
+After running the script, a heatmap will be **generated and displayed** showing your conversation frequency. The visualization will look similar to this:
+
+![AI Heatmap Result](./my_gpt_conversations_chart.png)
+
 ## 📖 Reference
 This project is inspired by Chip Huyen's work in the AI & Education book:  
 🔗 [Original Source](https://github.com/chiphuyen/aie-book/blob/main/scripts/ai-heatmap.ipynb)
