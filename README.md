@@ -33,8 +33,3 @@ After running the script, a heatmap will be **generated and displayed** showing 
 ## 📖 Reference
 This project is inspired by Chip Huyen's work in the AI & Education book:  
 🔗 [Original Source](https://github.com/chiphuyen/aie-book/blob/main/scripts/ai-heatmap.ipynb)
-
----
-
-Feel free to modify the `README.md` as needed! 🚀😊  
-This version keeps it clean, clear, and easy to follow.
