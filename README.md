@@ -18,13 +18,11 @@ AI Heatmap is a simple script that generates a heatmap based on the frequency of
 
 Run the script directly with:
 
-```sh
-python3 ./ai_heatmap.py --chatgpt_data_folder "./data/" --local_tz "Australia/Melbourne" --year "2024"```
+```python3 ./ai_heatmap.py --chatgpt_data_folder "./data/" --local_tz "Australia/Melbourne" --year "2024"```
 
 Alternatively, edit the parameters and execute:
 
-```sh
-./run_ai_heatmap```
+```./run_ai_heatmap```
 
 ## 📊 Result
 
